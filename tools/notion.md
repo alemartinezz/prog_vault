@@ -2,6 +2,11 @@
 
 ## Calculate time formula
 
+Output:
+```text
+
+```
+
 ```js
 if(empty(prop("Due")),
     "",
