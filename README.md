@@ -1,6 +1,6 @@
 # 💻 Prog Vault
 
-_🚀 Intended to be used as an Obsidian vault to make programming/tech tasks and commands faster to find._
+🚀 Intended to be used as an Obsidian vault to make programming/tech tasks and commands faster & easier to find.
 
 👨‍💻 **Features:**
 
