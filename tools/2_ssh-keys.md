@@ -14,7 +14,7 @@ ls -al ~/.ssh
 ```
 
 ```shell
-ssh-keygen -t ed25519 -C "alejandromartinezcornes@gmail.com"
+ssh-keygen -t ed25519 -C <your_email>
 ```
 
 ```shell
