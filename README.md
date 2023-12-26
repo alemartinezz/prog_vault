@@ -1,24 +1,28 @@
 # 💻 Prog Vault
 
-*🚀 Intended to be used as an Obsidian vault to make programming/tech tasks and commands faster to find.*
+_🚀 Intended to be used as an Obsidian vault to make programming/tech tasks and commands faster to find._
 
 👨‍💻 **Features:**
+
 1. It does not intend to be a holistic educational guide for every programmer in the world.
 2. It was built with simplicity in mind, to make daily tasks and commands easier to find.
 3. Do not waste time trying to explain everything... Less is more! For educational platforms, there are other better options.
 
-![[assets/image.png]]
+![](https://d1a2e1vehwcxq9.cloudfront.net/news/2019/11/anime-thanksgiving-shirobako-512x288.png)
 
 ⚠️ **Important:**
+
 1.  📁 `.obsidian` folder is ignored, in order to let everyone personalize their experience.
-2. 🖼️ The attachment folder is `assets`. Be sure to configure it in your Obsidian app.
+2.  🖼️ The attachment folder is `assets`. Be sure to configure it in your Obsidian app.
 
 🔧 **Getting Started:**
+
 - Clone the repository.
 - Open with Obsidian.
 - Start adding your notes!
 
 💡 **Tips:**
+
 - Customize the look and feel with themes and plugins.
 - Regularly update your notes to include new findings or solutions.
 
